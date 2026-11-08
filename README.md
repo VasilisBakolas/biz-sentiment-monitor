@@ -8,7 +8,7 @@ It is a contrarian gauge of retail mood. It is not a trading signal.
 
 I wanted to know whether the chatter on /biz/ says anything about BTC and ETH prices, and to learn data analysis on real, messy data. It started out of curiosity, and I then tested it the way I would at work: hand-labelled posts, error rates and honest limits. The short answer is that it mostly does not predict prices. The write-up shows how I got there and where the method is weak.
 
-**Interactive write-up** (replay of real data, price charts, live scoring demo, evaluation): open `docs/index.html` in a browser.
+**Interactive write-up** (replay of real data, price charts, live scoring demo, evaluation): [open the live page](https://vasilisbakolas.github.io/biz-sentiment-monitor/) or open `docs/index.html` in a browser.
 
 ## What I found
 
@@ -71,7 +71,7 @@ Personal, non-commercial research project. Nothing here is financial or investme
 
 ## Author
 
-Vasileios Bakolas, Berlin. [LinkedIn](https://www.linkedin.com/in/vasilis-bakolas-b7188181/)
+Vasileios Bakolas, Berlin, 2026. [LinkedIn](https://www.linkedin.com/in/vasilis-bakolas-b7188181/) · [GitHub](https://github.com/VasilisBakolas)
 
 ## Licence
 
